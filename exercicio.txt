@@ -1,0 +1,6 @@
+Segue em anexo o material elaborado em sala.
+Faça o template de um site utilizando o bootstrap que tenha:
+
+Uma navbar com 5 links (De sua escolha)
+No conteúdo principal voce ira criar uma galeria com 10 cards de coisas de sua preferencia
+Vai criar um footer com o seu nome - SENAI Taguatinga
